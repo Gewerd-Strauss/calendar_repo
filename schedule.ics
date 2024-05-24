@@ -12,8 +12,8 @@ UID:0d6b5695-86e2-4cea-b3c2-00cbc263353c
 DTSTAMP:20240511T003210Z
 DTSTART;TZID=America/Los_Angeles:20240514T190000
 DTEND;TZID=America/Los_Angeles:20240514T230000
-SUMMARY:() Daggerheart One-Shot
-DESCRIPTION:(www.twitch.tv/) Tabletop RPGs.
+SUMMARY:(CriticalRole) Daggerheart One-Shot
+DESCRIPTION:(www.twitch.tv/CriticalRole) Tabletop RPGs.
 CATEGORIES:Tabletop RPGs
 END:VEVENT
 
@@ -22,8 +22,8 @@ UID:1317e488-03e5-4f85-ab4d-5c1411a001ee
 DTSTAMP:20240323T014835Z
 DTSTART;TZID=America/Los_Angeles:20240328T190000
 DTEND;TZID=America/Los_Angeles:20240328T230000
-SUMMARY:() Candela Obscura
-DESCRIPTION:(www.twitch.tv/) Tabletop RPGs.
+SUMMARY:(CriticalRole) Candela Obscura
+DESCRIPTION:(www.twitch.tv/CriticalRole) Tabletop RPGs.
 CATEGORIES:Tabletop RPGs
 END:VEVENT
 
@@ -32,8 +32,8 @@ UID:5ac6f126-a82a-4699-92b8-bd1bf0137423
 DTSTAMP:20240506T064823Z
 DTSTART;TZID=America/Los_Angeles:20240507T190000
 DTEND;TZID=America/Los_Angeles:20240507T210000
-SUMMARY:() 4-Sided Dive
-DESCRIPTION:(www.twitch.tv/) Talk Shows & Podcasts.
+SUMMARY:(CriticalRole) 4-Sided Dive
+DESCRIPTION:(www.twitch.tv/CriticalRole) Talk Shows & Podcasts.
 CATEGORIES:Talk Shows & Podcasts
 END:VEVENT
 
@@ -42,8 +42,8 @@ UID:7637dfa6-a289-432d-a85e-a9c6af2e7e6e
 DTSTAMP:20220624T192243Z
 DTSTART;TZID=America/Los_Angeles:20220630T190000
 DTEND;TZID=America/Los_Angeles:20220630T230000
-SUMMARY:() Critical Role - Campaign 3
-DESCRIPTION:(www.twitch.tv/) Dungeons & Dragons.
+SUMMARY:(CriticalRole) Critical Role - Campaign 3
+DESCRIPTION:(www.twitch.tv/CriticalRole) Dungeons & Dragons.
 CATEGORIES:Dungeons & Dragons
 RRULE:FREQ=WEEKLY;BYDAY=TH
 END:VEVENT
@@ -53,8 +53,8 @@ UID:8896ed61-d883-4c6f-a537-202d80558995
 DTSTAMP:20240408T144117Z
 DTSTART;TZID=America/Los_Angeles:20240409T190000
 DTEND;TZID=America/Los_Angeles:20240409T210000
-SUMMARY:() 4-Sided Dive 
-DESCRIPTION:(www.twitch.tv/) Talk Shows & Podcasts.
+SUMMARY:(CriticalRole) 4-Sided Dive 
+DESCRIPTION:(www.twitch.tv/CriticalRole) Talk Shows & Podcasts.
 CATEGORIES:Talk Shows & Podcasts
 END:VEVENT
 
@@ -63,8 +63,8 @@ UID:a9e41b81-053c-49c3-8c30-8852c4b87a67
 DTSTAMP:20240419T222244Z
 DTSTART;TZID=America/Los_Angeles:20240425T190000
 DTEND;TZID=America/Los_Angeles:20240425T230000
-SUMMARY:() Candela Obscura
-DESCRIPTION:(www.twitch.tv/) Tabletop RPGs.
+SUMMARY:(CriticalRole) Candela Obscura
+DESCRIPTION:(www.twitch.tv/CriticalRole) Tabletop RPGs.
 CATEGORIES:Tabletop RPGs
 END:VEVENT
 
@@ -73,8 +73,8 @@ UID:b47e05c4-2487-4eed-83fd-1ef93cc1a71a
 DTSTAMP:20240408T144220Z
 DTSTART;TZID=America/Los_Angeles:20240409T150000
 DTEND;TZID=America/Los_Angeles:20240409T160000
-SUMMARY:() Daggerheart Updates Livestream
-DESCRIPTION:(www.twitch.tv/) Tabletop RPGs.
+SUMMARY:(CriticalRole) Daggerheart Updates Livestream
+DESCRIPTION:(www.twitch.tv/CriticalRole) Tabletop RPGs.
 CATEGORIES:Tabletop RPGs
 END:VEVENT
 
@@ -83,8 +83,8 @@ UID:043a1101-d8d7-41e2-a9da-52a2f45b3281
 DTSTAMP:20200513T075022Z
 DTSTART;TZID=Europe/Berlin:20240520T200000
 DTEND;TZID=Europe/Berlin:20240520T230000
-SUMMARY:() PRIME TIME SHOW 🔥
-DESCRIPTION:(www.twitch.tv/) Just Chatting.
+SUMMARY:(DoktorFroid) PRIME TIME SHOW 🔥
+DESCRIPTION:(www.twitch.tv/DoktorFroid) Just Chatting.
 CATEGORIES:Just Chatting
 RRULE:FREQ=WEEKLY;BYDAY=MO
 END:VEVENT
@@ -94,8 +94,8 @@ UID:3c3ac37a-06de-4b35-8ece-25c20af7327b
 DTSTAMP:20200807T145951Z
 DTSTART;TZID=Europe/Berlin:20240522T200000
 DTEND;TZID=Europe/Berlin:20240522T230000
-SUMMARY:() PRIME TIME SHOW 🔥
-DESCRIPTION:(www.twitch.tv/) Just Chatting.
+SUMMARY:(DoktorFroid) PRIME TIME SHOW 🔥
+DESCRIPTION:(www.twitch.tv/DoktorFroid) Just Chatting.
 CATEGORIES:Just Chatting
 RRULE:FREQ=WEEKLY;BYDAY=WE
 END:VEVENT
@@ -105,8 +105,8 @@ UID:8ae80b18-a96f-496a-94c4-38059c60af42
 DTSTAMP:20200903T162546Z
 DTSTART;TZID=Europe/Berlin:20240524T093000
 DTEND;TZID=Europe/Berlin:20240524T123000
-SUMMARY:() Morning Show ☕ Spiel, Spaß und Kaffee!
-DESCRIPTION:(www.twitch.tv/) Just Chatting.
+SUMMARY:(DoktorFroid) Morning Show ☕ Spiel, Spaß und Kaffee!
+DESCRIPTION:(www.twitch.tv/DoktorFroid) Just Chatting.
 CATEGORIES:Just Chatting
 RRULE:FREQ=WEEKLY;BYDAY=FR
 END:VEVENT
@@ -116,8 +116,8 @@ UID:cae18dc9-f4bf-4865-980e-49d065e9dda8
 DTSTAMP:20200912T100837Z
 DTSTART;TZID=Europe/Berlin:20240521T130000
 DTEND;TZID=Europe/Berlin:20240521T150000
-SUMMARY:() Copy & Taste 🍔
-DESCRIPTION:(www.twitch.tv/) Food & Drink.
+SUMMARY:(DoktorFroid) Copy & Taste 🍔
+DESCRIPTION:(www.twitch.tv/DoktorFroid) Food & Drink.
 CATEGORIES:Food & Drink
 RRULE:FREQ=WEEKLY;BYDAY=TU
 END:VEVENT
@@ -127,8 +127,8 @@ UID:0dacf797-7d49-44be-a115-0f6fb26c2196
 DTSTAMP:20240503T130305Z
 DTSTART;TZID=Europe/Oslo:20240508T180000
 DTEND;TZID=Europe/Oslo:20240508T230000
-SUMMARY:() Deep Dip 2 until I reach the Top
-DESCRIPTION:(www.twitch.tv/) Trackmania.
+SUMMARY:(Wirtual) Deep Dip 2 until I reach the Top
+DESCRIPTION:(www.twitch.tv/Wirtual) Trackmania.
 CATEGORIES:Trackmania
 RRULE:FREQ=WEEKLY;BYDAY=WE
 END:VEVENT
@@ -138,8 +138,8 @@ UID:28fb8d1b-6c6c-464d-9a85-a74f824151dc
 DTSTAMP:20240503T130323Z
 DTSTART;TZID=Europe/Oslo:20240505T100000
 DTEND;TZID=Europe/Oslo:20240505T150000
-SUMMARY:() Deep Dip 2 until I reach the Top
-DESCRIPTION:(www.twitch.tv/) Trackmania.
+SUMMARY:(Wirtual) Deep Dip 2 until I reach the Top
+DESCRIPTION:(www.twitch.tv/Wirtual) Trackmania.
 CATEGORIES:Trackmania
 RRULE:FREQ=WEEKLY;BYDAY=SU
 END:VEVENT
@@ -149,8 +149,8 @@ UID:34efeb76-24e2-4a8c-804a-79d97e03ec33
 DTSTAMP:20200504T044005Z
 DTSTART;TZID=Europe/Oslo:20240519T180000
 DTEND;TZID=Europe/Oslo:20240520T000000
-SUMMARY:() Deep Dip 2 until I reach the Top
-DESCRIPTION:(www.twitch.tv/) Trackmania.
+SUMMARY:(Wirtual) Deep Dip 2 until I reach the Top
+DESCRIPTION:(www.twitch.tv/Wirtual) Trackmania.
 CATEGORIES:Trackmania
 RRULE:FREQ=WEEKLY;BYDAY=SU
 END:VEVENT
@@ -160,8 +160,8 @@ UID:43210929-74e3-49d2-93fb-4c52dc1e1828
 DTSTAMP:20240503T130319Z
 DTSTART;TZID=Europe/Oslo:20240509T100000
 DTEND;TZID=Europe/Oslo:20240509T150000
-SUMMARY:() Deep Dip 2 until I reach the Top
-DESCRIPTION:(www.twitch.tv/) Trackmania.
+SUMMARY:(Wirtual) Deep Dip 2 until I reach the Top
+DESCRIPTION:(www.twitch.tv/Wirtual) Trackmania.
 CATEGORIES:Trackmania
 RRULE:FREQ=WEEKLY;BYDAY=TH
 END:VEVENT
@@ -171,8 +171,8 @@ UID:450584d5-6bdb-4e3b-8826-6dcab840d698
 DTSTAMP:20240503T130306Z
 DTSTART;TZID=Europe/Oslo:20240509T180000
 DTEND;TZID=Europe/Oslo:20240509T230000
-SUMMARY:() Deep Dip 2 until I reach the Top
-DESCRIPTION:(www.twitch.tv/) Trackmania.
+SUMMARY:(Wirtual) Deep Dip 2 until I reach the Top
+DESCRIPTION:(www.twitch.tv/Wirtual) Trackmania.
 CATEGORIES:Trackmania
 RRULE:FREQ=WEEKLY;BYDAY=TH
 END:VEVENT
@@ -182,8 +182,8 @@ UID:45460d0d-be59-40c3-b4ff-4bf7a0d49321
 DTSTAMP:20240503T130119Z
 DTSTART;TZID=Europe/Oslo:20240506T100000
 DTEND;TZID=Europe/Oslo:20240506T140000
-SUMMARY:() Deep Dip 2 until I reach the Top
-DESCRIPTION:(www.twitch.tv/) Trackmania.
+SUMMARY:(Wirtual) Deep Dip 2 until I reach the Top
+DESCRIPTION:(www.twitch.tv/Wirtual) Trackmania.
 CATEGORIES:Trackmania
 RRULE:FREQ=WEEKLY;BYDAY=MO
 END:VEVENT
@@ -193,8 +193,8 @@ UID:61aeccd9-d6ba-4a2f-bbc7-dac51d4857e8
 DTSTAMP:20240503T130301Z
 DTSTART;TZID=Europe/Oslo:20240507T180000
 DTEND;TZID=Europe/Oslo:20240507T230000
-SUMMARY:() Deep Dip 2 until I reach the Top
-DESCRIPTION:(www.twitch.tv/) Trackmania.
+SUMMARY:(Wirtual) Deep Dip 2 until I reach the Top
+DESCRIPTION:(www.twitch.tv/Wirtual) Trackmania.
 CATEGORIES:Trackmania
 RRULE:FREQ=WEEKLY;BYDAY=TU
 END:VEVENT
@@ -204,8 +204,8 @@ UID:6fc91a6e-6894-4acc-8e4b-9f9ff531fc0a
 DTSTAMP:20240503T130321Z
 DTSTART;TZID=Europe/Oslo:20240504T100000
 DTEND;TZID=Europe/Oslo:20240504T150000
-SUMMARY:() Deep Dip 2 until I reach the Top
-DESCRIPTION:(www.twitch.tv/) Trackmania.
+SUMMARY:(Wirtual) Deep Dip 2 until I reach the Top
+DESCRIPTION:(www.twitch.tv/Wirtual) Trackmania.
 CATEGORIES:Trackmania
 RRULE:FREQ=WEEKLY;BYDAY=SA
 END:VEVENT
@@ -215,8 +215,8 @@ UID:768745d5-59f7-4d43-81a3-bc9d72a26141
 DTSTAMP:20240503T130317Z
 DTSTART;TZID=Europe/Oslo:20240508T100000
 DTEND;TZID=Europe/Oslo:20240508T150000
-SUMMARY:() Deep Dip 2 until I reach the Top
-DESCRIPTION:(www.twitch.tv/) Trackmania.
+SUMMARY:(Wirtual) Deep Dip 2 until I reach the Top
+DESCRIPTION:(www.twitch.tv/Wirtual) Trackmania.
 CATEGORIES:Trackmania
 RRULE:FREQ=WEEKLY;BYDAY=WE
 END:VEVENT
@@ -226,8 +226,8 @@ UID:a83e8366-d85e-4e82-8f5d-2f853de2099f
 DTSTAMP:20240503T130200Z
 DTSTART;TZID=Europe/Oslo:20240506T180000
 DTEND;TZID=Europe/Oslo:20240506T230000
-SUMMARY:() Deep Dip 2 until I reach the Top
-DESCRIPTION:(www.twitch.tv/) Trackmania.
+SUMMARY:(Wirtual) Deep Dip 2 until I reach the Top
+DESCRIPTION:(www.twitch.tv/Wirtual) Trackmania.
 CATEGORIES:Trackmania
 RRULE:FREQ=WEEKLY;BYDAY=MO
 END:VEVENT
@@ -237,8 +237,8 @@ UID:a8fbd41c-fa40-4b02-9acb-2485e55ab60a
 DTSTAMP:20200504T044005Z
 DTSTART;TZID=Europe/Oslo:20240524T180000
 DTEND;TZID=Europe/Oslo:20240525T000000
-SUMMARY:() Deep Dip 2 until I reach the Top
-DESCRIPTION:(www.twitch.tv/) Trackmania.
+SUMMARY:(Wirtual) Deep Dip 2 until I reach the Top
+DESCRIPTION:(www.twitch.tv/Wirtual) Trackmania.
 CATEGORIES:Trackmania
 RRULE:FREQ=WEEKLY;BYDAY=FR
 END:VEVENT
@@ -248,8 +248,8 @@ UID:aea674b6-f44b-4102-864b-70b3a8d33436
 DTSTAMP:20240503T130320Z
 DTSTART;TZID=Europe/Oslo:20240510T100000
 DTEND;TZID=Europe/Oslo:20240510T150000
-SUMMARY:() Deep Dip 2 until I reach the Top
-DESCRIPTION:(www.twitch.tv/) Trackmania.
+SUMMARY:(Wirtual) Deep Dip 2 until I reach the Top
+DESCRIPTION:(www.twitch.tv/Wirtual) Trackmania.
 CATEGORIES:Trackmania
 RRULE:FREQ=WEEKLY;BYDAY=FR
 END:VEVENT
@@ -259,8 +259,8 @@ UID:b990a76c-daf9-4dbc-85c8-25f4edcd5cdc
 DTSTAMP:20240503T130225Z
 DTSTART;TZID=Europe/Oslo:20240507T100000
 DTEND;TZID=Europe/Oslo:20240507T140000
-SUMMARY:() Deep Dip 2 until I reach the Top
-DESCRIPTION:(www.twitch.tv/) Trackmania.
+SUMMARY:(Wirtual) Deep Dip 2 until I reach the Top
+DESCRIPTION:(www.twitch.tv/Wirtual) Trackmania.
 CATEGORIES:Trackmania
 RRULE:FREQ=WEEKLY;BYDAY=TU
 END:VEVENT
@@ -270,8 +270,8 @@ UID:fb7ace79-7f64-45de-91cc-04b6ec4efe78
 DTSTAMP:20201126T131603Z
 DTSTART;TZID=Europe/Oslo:20201128T180000
 DTEND;TZID=Europe/Oslo:20201129T000000
-SUMMARY:() Deep Dip 2 until I reach the Top
-DESCRIPTION:(www.twitch.tv/) Trackmania.
+SUMMARY:(Wirtual) Deep Dip 2 until I reach the Top
+DESCRIPTION:(www.twitch.tv/Wirtual) Trackmania.
 CATEGORIES:Trackmania
 RRULE:FREQ=WEEKLY;BYDAY=SA
 END:VEVENT
@@ -281,8 +281,8 @@ UID:fc7c9754-81bc-4455-8af7-5e505d881625
 DTSTAMP:20200807T194101Z
 DTSTART;TZID=America/Vancouver:20240524T170000
 DTEND;TZID=America/Vancouver:20240524T200000
-SUMMARY:() The WAN Show
-DESCRIPTION:(www.twitch.tv/) Science & Technology.
+SUMMARY:(linustech) The WAN Show
+DESCRIPTION:(www.twitch.tv/linustech) Science & Technology.
 CATEGORIES:Science & Technology
 RRULE:FREQ=WEEKLY;BYDAY=FR
 END:VEVENT
@@ -292,8 +292,8 @@ UID:636b2a26-955a-4199-859e-2dc9c0962eb7
 DTSTAMP:20230218T204708Z
 DTSTART;TZID=Europe/Berlin:20230219T180000
 DTEND;TZID=Europe/Berlin:20230220T020000
-SUMMARY:() 🔵 KAFFEEKRANZ & LIVE REACTS ☕ Quatschen, Gucken, Käffchen
-DESCRIPTION:(www.twitch.tv/) Just Chatting.
+SUMMARY:(Gronkh) 🔵 KAFFEEKRANZ & LIVE REACTS ☕ Quatschen, Gucken, Käffchen
+DESCRIPTION:(www.twitch.tv/Gronkh) Just Chatting.
 CATEGORIES:Just Chatting
 RRULE:FREQ=WEEKLY;BYDAY=SU
 END:VEVENT
@@ -303,8 +303,8 @@ UID:a505b42f-86ef-4604-959c-23823d685c2a
 DTSTAMP:20200514T201128Z
 DTSTART;TZID=Europe/Berlin:20240524T180000
 DTEND;TZID=Europe/Berlin:20240525T060000
-SUMMARY:() 🟣 #FREiAB18 🎮 Games testen: Indie, Demos, Neu, Weird, Trash, ALLES
-DESCRIPTION:(www.twitch.tv/) Just Chatting.
+SUMMARY:(Gronkh) 🟣 #FREiAB18 🎮 Games testen: Indie, Demos, Neu, Weird, Trash, ALLES
+DESCRIPTION:(www.twitch.tv/Gronkh) Just Chatting.
 CATEGORIES:Just Chatting
 RRULE:FREQ=WEEKLY;BYDAY=FR
 END:VEVENT
