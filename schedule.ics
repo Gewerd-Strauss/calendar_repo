@@ -46,10 +46,10 @@ SUMMARY:(CriticalRole) Daggerheart Update with Matthew Mercer and Spenser Starke
 END:VEVENT
 
 BEGIN:VEVENT
-UID:5ac6f126-a82a-4699-92b8-bd1bf0137423
-DTSTAMP:20240506T064823Z
-DTSTART;TZID=America/Los_Angeles:20240507T190000
-DTEND;TZID=America/Los_Angeles:20240507T210000
+UID:3bfe12cc-dc91-4305-86d5-0d0eca3d668f
+DTSTAMP:20240708T170318Z
+DTSTART;TZID=America/Los_Angeles:20240709T190000
+DTEND;TZID=America/Los_Angeles:20240709T210000
 SUMMARY:(CriticalRole) 4-Sided Dive
 DESCRIPTION:(www.twitch.tv/CriticalRole) Talk Shows & Podcasts.
 CATEGORIES:Talk Shows & Podcasts
@@ -64,6 +64,26 @@ SUMMARY:(CriticalRole) Critical Role - Campaign 3
 DESCRIPTION:(www.twitch.tv/CriticalRole) Dungeons & Dragons.
 CATEGORIES:Dungeons & Dragons
 RRULE:FREQ=WEEKLY;BYDAY=TH
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a50d30e3-162d-4ac8-a46c-b21ecb3ef2f8
+DTSTAMP:20240708T170404Z
+DTSTART;TZID=America/Los_Angeles:20240709T160000
+DTEND;TZID=America/Los_Angeles:20240709T180000
+SUMMARY:(CriticalRole) Daggerheart Update
+DESCRIPTION:(www.twitch.tv/CriticalRole) Tabletop RPGs.
+CATEGORIES:Tabletop RPGs
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c8ccae40-72ae-4cc3-a5c5-7f2f87984dea
+DTSTAMP:20240708T170438Z
+DTSTART;TZID=America/Los_Angeles:20240710T190000
+DTEND;TZID=America/Los_Angeles:20240710T210000
+SUMMARY:(CriticalRole) Midst Season 3 Roundtable
+DESCRIPTION:(www.twitch.tv/CriticalRole) Talk Shows & Podcasts.
+CATEGORIES:Talk Shows & Podcasts
 END:VEVENT
 
 BEGIN:VEVENT
