@@ -8,16 +8,6 @@ NAME:Streaming Scheduler
 X-WR-CALNAME:Streaming Scheduler
 
 BEGIN:VEVENT
-UID:19777189-623c-4847-bad9-a9752f2a6f04
-DTSTAMP:20240622T011123Z
-DTSTART;TZID=America/Los_Angeles:20240625T190000
-DTEND;TZID=America/Los_Angeles:20240625T210000
-SUMMARY:(CriticalRole) Candela Obscura: Game Master Roundtable
-DESCRIPTION:(www.twitch.tv/CriticalRole) Talk Shows & Podcasts.
-CATEGORIES:Talk Shows & Podcasts
-END:VEVENT
-
-BEGIN:VEVENT
 UID:3bfe12cc-dc91-4305-86d5-0d0eca3d668f
 DTSTAMP:20240708T170318Z
 DTSTART;TZID=America/Los_Angeles:20240709T190000
