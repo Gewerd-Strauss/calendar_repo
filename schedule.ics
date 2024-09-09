@@ -8,16 +8,6 @@ NAME:Streaming Scheduler
 X-WR-CALNAME:Streaming Scheduler
 
 BEGIN:VEVENT
-UID:3bfe12cc-dc91-4305-86d5-0d0eca3d668f
-DTSTAMP:20240708T170318Z
-DTSTART;TZID=America/Los_Angeles:20240709T190000
-DTEND;TZID=America/Los_Angeles:20240709T210000
-SUMMARY:(CriticalRole) 4-Sided Dive
-DESCRIPTION:(www.twitch.tv/CriticalRole) Talk Shows & Podcasts.
-CATEGORIES:Talk Shows & Podcasts
-END:VEVENT
-
-BEGIN:VEVENT
 UID:685fd8d4-4111-49d4-91f5-93780a4c0e62
 DTSTAMP:20240805T085146Z
 DTSTART;TZID=America/Los_Angeles:20240807T190000
@@ -44,16 +34,6 @@ SUMMARY:(CriticalRole) Critical Role - Campaign 3
 DESCRIPTION:(www.twitch.tv/CriticalRole) Dungeons & Dragons.
 CATEGORIES:Dungeons & Dragons
 RRULE:FREQ=WEEKLY;BYDAY=TH
-END:VEVENT
-
-BEGIN:VEVENT
-UID:a50d30e3-162d-4ac8-a46c-b21ecb3ef2f8
-DTSTAMP:20240708T170404Z
-DTSTART;TZID=America/Los_Angeles:20240709T160000
-DTEND;TZID=America/Los_Angeles:20240709T180000
-SUMMARY:(CriticalRole) Daggerheart Update
-DESCRIPTION:(www.twitch.tv/CriticalRole) Tabletop RPGs.
-CATEGORIES:Tabletop RPGs
 END:VEVENT
 
 BEGIN:VEVENT
