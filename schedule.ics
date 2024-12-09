@@ -57,16 +57,6 @@ SUMMARY:(CriticalRole) The Legend of Vox Machina, Season 3 Roundtable (Episodes 
 END:VEVENT
 
 BEGIN:VEVENT
-UID:f17c5f1b-4c44-4f13-8776-2020cfc08439
-DTSTAMP:20241007T065001Z
-DTSTART;TZID=America/Los_Angeles:20241008T190000
-DTEND;TZID=America/Los_Angeles:20241008T230000
-SUMMARY:(CriticalRole) 4-Sided Dive
-DESCRIPTION:(www.twitch.tv/CriticalRole) Talk Shows & Podcasts.
-CATEGORIES:Talk Shows & Podcasts
-END:VEVENT
-
-BEGIN:VEVENT
 UID:f7ad74ea-94a6-466a-95c1-24a7a0470de5
 DTSTAMP:20241013T052623Z
 DTSTART;TZID=America/Los_Angeles:20241015T190000
