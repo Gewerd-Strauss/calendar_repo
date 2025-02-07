@@ -88,6 +88,16 @@ CATEGORIES:Special Events
 END:VEVENT
 
 BEGIN:VEVENT
+UID:31744abc-1c7b-4d21-9386-94b437e0357e
+DTSTAMP:20250206T202138Z
+DTSTART;TZID=Europe/Berlin:20250207T110000
+DTEND;TZID=Europe/Berlin:20250207T150000
+SUMMARY:(DoktorFroid) [IRL] Erst Frühstück und dann auf die WEINmesse Berlin! Mit Brammen von @pietsmiet & @formulalena
+DESCRIPTION:(www.twitch.tv/DoktorFroid) IRL.
+CATEGORIES:IRL
+END:VEVENT
+
+BEGIN:VEVENT
 UID:3c3ac37a-06de-4b35-8ece-25c20af7327b
 DTSTAMP:20200807T145951Z
 DTSTART;TZID=Europe/Berlin:20250205T200000
@@ -144,16 +154,6 @@ UID:a08192c6-cbce-4ff9-9e9f-d26fd20f6a08
 DTSTAMP:20241206T131245Z
 DTSTART;TZID=Europe/Berlin:20241218T180000
 DTEND;TZID=Europe/Berlin:20241218T200000
-SUMMARY:(DoktorFroid) The Mystery Streamer by UberEats x Doktorfroid
-DESCRIPTION:(www.twitch.tv/DoktorFroid) Special Events.
-CATEGORIES:Special Events
-END:VEVENT
-
-BEGIN:VEVENT
-UID:a227d156-ecf4-4073-821d-a837a7daf0fd
-DTSTAMP:20241206T130932Z
-DTSTART;TZID=Europe/Berlin:20241206T160000
-DTEND;TZID=Europe/Berlin:20241206T180000
 SUMMARY:(DoktorFroid) The Mystery Streamer by UberEats x Doktorfroid
 DESCRIPTION:(www.twitch.tv/DoktorFroid) Special Events.
 CATEGORIES:Special Events
