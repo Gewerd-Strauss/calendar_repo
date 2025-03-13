@@ -18,6 +18,14 @@ CATEGORIES:Dungeons & Dragons
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2e8c0a8c-25b9-49cc-a9b7-36d7b0f5407c
+DTSTAMP:20250310T175647Z
+DTSTART;TZID=America/Los_Angeles:20250313T190000
+DTEND;TZID=America/Los_Angeles:20250313T230000
+SUMMARY:(CriticalRole) Wrap Up: Campaign 3 and the Era of Reclamation
+END:VEVENT
+
+BEGIN:VEVENT
 UID:6560c799-f2a3-4847-88bd-6102aa0e7261
 DTSTAMP:20250112T050550Z
 DTSTART;TZID=America/Los_Angeles:20250114T190000
@@ -25,17 +33,6 @@ DTEND;TZID=America/Los_Angeles:20250114T230000
 SUMMARY:(CriticalRole) Assassin's Creed One-Shot
 DESCRIPTION:(www.twitch.tv/CriticalRole) Dungeons & Dragons.
 CATEGORIES:Dungeons & Dragons
-END:VEVENT
-
-BEGIN:VEVENT
-UID:7637dfa6-a289-432d-a85e-a9c6af2e7e6e
-DTSTAMP:20220624T192243Z
-DTSTART;TZID=America/Los_Angeles:20220630T190000
-DTEND;TZID=America/Los_Angeles:20220630T230000
-SUMMARY:(CriticalRole) Exandria Unlimited: Divergence
-DESCRIPTION:(www.twitch.tv/CriticalRole) Dungeons & Dragons.
-CATEGORIES:Dungeons & Dragons
-RRULE:FREQ=WEEKLY;BYDAY=TH
 END:VEVENT
 
 BEGIN:VEVENT
@@ -52,6 +49,16 @@ DTSTAMP:20250216T084052Z
 DTSTART;TZID=America/Los_Angeles:20250218T190000
 DTEND;TZID=America/Los_Angeles:20250218T230000
 SUMMARY:(CriticalRole) Avowed One-Shot
+DESCRIPTION:(www.twitch.tv/CriticalRole) Dungeons & Dragons.
+CATEGORIES:Dungeons & Dragons
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c02955f8-ec4b-45e8-bef6-78b2aa06af4a
+DTSTAMP:20250310T175538Z
+DTSTART;TZID=America/Los_Angeles:20250311T190000
+DTEND;TZID=America/Los_Angeles:20250311T230000
+SUMMARY:(CriticalRole) Suikoden One-Shot
 DESCRIPTION:(www.twitch.tv/CriticalRole) Dungeons & Dragons.
 CATEGORIES:Dungeons & Dragons
 END:VEVENT
@@ -99,6 +106,16 @@ CATEGORIES:Kingdom Come: Deliverance II
 END:VEVENT
 
 BEGIN:VEVENT
+UID:4d4da6bc-e3e9-48f2-ae95-a7c70f809170
+DTSTAMP:20250312T224143Z
+DTSTART;TZID=Europe/Berlin:20250314T130000
+DTEND;TZID=Europe/Berlin:20250314T160000
+SUMMARY:(DoktorFroid) Special Gaming Stream
+DESCRIPTION:(www.twitch.tv/DoktorFroid) Special Events.
+CATEGORIES:Special Events
+END:VEVENT
+
+BEGIN:VEVENT
 UID:5ebe0a40-937a-4eb7-8789-06fab25cebe8
 DTSTAMP:20250306T193817Z
 DTSTART;TZID=Europe/Berlin:20250307T123000
@@ -116,16 +133,6 @@ DTEND;TZID=Europe/Berlin:20250204T160000
 SUMMARY:(DoktorFroid) ZU DRITT ÜBERLEBEN ☣️
 DESCRIPTION:(www.twitch.tv/DoktorFroid) Project Zomboid.
 CATEGORIES:Project Zomboid
-END:VEVENT
-
-BEGIN:VEVENT
-UID:697c4042-8949-489f-9166-cb5d7f763ea2
-DTSTAMP:20250306T194032Z
-DTSTART;TZID=Europe/Berlin:20250314T130000
-DTEND;TZID=Europe/Berlin:20250314T160000
-SUMMARY:(DoktorFroid) Die Liga der Sterblichen! Minecraft Event von Team PietSmiet Stream 2/3
-DESCRIPTION:(www.twitch.tv/DoktorFroid) Minecraft.
-CATEGORIES:Minecraft
 END:VEVENT
 
 BEGIN:VEVENT
