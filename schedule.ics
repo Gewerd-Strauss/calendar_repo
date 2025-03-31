@@ -44,11 +44,41 @@ CATEGORIES:Dungeons & Dragons
 END:VEVENT
 
 BEGIN:VEVENT
+UID:99aac118-3826-4dbf-b3c8-dcfda1ffa97f
+DTSTAMP:20250331T045750Z
+DTSTART;TZID=America/Los_Angeles:20250417T180000
+DTEND;TZID=America/Los_Angeles:20250417T220000
+SUMMARY:(CriticalRole) Wildemount Wildlings
+DESCRIPTION:(www.twitch.tv/CriticalRole) Dungeons & Dragons.
+CATEGORIES:Dungeons & Dragons
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bacdca7a-bfe4-49da-8d29-ac88834e4dd0
+DTSTAMP:20250331T045743Z
+DTSTART;TZID=America/Los_Angeles:20250410T180000
+DTEND;TZID=America/Los_Angeles:20250410T220000
+SUMMARY:(CriticalRole) Wildemount Wildlings
+DESCRIPTION:(www.twitch.tv/CriticalRole) Dungeons & Dragons.
+CATEGORIES:Dungeons & Dragons
+END:VEVENT
+
+BEGIN:VEVENT
 UID:c02955f8-ec4b-45e8-bef6-78b2aa06af4a
 DTSTAMP:20250310T175538Z
 DTSTART;TZID=America/Los_Angeles:20250311T190000
 DTEND;TZID=America/Los_Angeles:20250311T230000
 SUMMARY:(CriticalRole) Suikoden One-Shot
+DESCRIPTION:(www.twitch.tv/CriticalRole) Dungeons & Dragons.
+CATEGORIES:Dungeons & Dragons
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d18e4c6f-c6c9-40a9-a729-e98fdc896a35
+DTSTAMP:20250331T045732Z
+DTSTART;TZID=America/Los_Angeles:20250403T180000
+DTEND;TZID=America/Los_Angeles:20250403T220000
+SUMMARY:(CriticalRole) Wildemount Wildlings
 DESCRIPTION:(www.twitch.tv/CriticalRole) Dungeons & Dragons.
 CATEGORIES:Dungeons & Dragons
 END:VEVENT
