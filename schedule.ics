@@ -8,16 +8,6 @@ NAME:Streaming Scheduler
 X-WR-CALNAME:Streaming Scheduler
 
 BEGIN:VEVENT
-UID:0472a4ef-0b6d-49c9-8b94-22905cff798b
-DTSTAMP:20250127T004759Z
-DTSTART;TZID=America/Los_Angeles:20250130T190000
-DTEND;TZID=America/Los_Angeles:20250130T230000
-SUMMARY:(CriticalRole) Freaky Thursday: A Bells Hells Charity One-Shot for LA Wildfire Recovery
-DESCRIPTION:(www.twitch.tv/CriticalRole) Dungeons & Dragons.
-CATEGORIES:Dungeons & Dragons
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2e8c0a8c-25b9-49cc-a9b7-36d7b0f5407c
 DTSTAMP:20250310T175647Z
 DTSTART;TZID=America/Los_Angeles:20250313T190000
