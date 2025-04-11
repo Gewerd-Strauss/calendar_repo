@@ -16,14 +16,6 @@ SUMMARY:(CriticalRole) Wrap Up: Campaign 3 and the Era of Reclamation
 END:VEVENT
 
 BEGIN:VEVENT
-UID:7a27f13e-9875-4cd2-b519-c0bfd4fc4f7e
-DTSTAMP:20250201T004854Z
-DTSTART;TZID=America/Los_Angeles:20250206T180000
-DTEND;TZID=America/Los_Angeles:20250206T190000
-SUMMARY:(CriticalRole) Campaign 3 - Finale Tale Gate!
-END:VEVENT
-
-BEGIN:VEVENT
 UID:996f21c6-7d45-4586-a947-445571fc3bf2
 DTSTAMP:20250216T084052Z
 DTSTART;TZID=America/Los_Angeles:20250218T190000
@@ -90,16 +82,6 @@ SUMMARY:(DoktorFroid) PRIME TIME SHOW 🔥 Talk & React
 DESCRIPTION:(www.twitch.tv/DoktorFroid) Just Chatting.
 CATEGORIES:Just Chatting
 RRULE:FREQ=WEEKLY;BYDAY=MO
-END:VEVENT
-
-BEGIN:VEVENT
-UID:31744abc-1c7b-4d21-9386-94b437e0357e
-DTSTAMP:20250206T202138Z
-DTSTART;TZID=Europe/Berlin:20250207T110000
-DTEND;TZID=Europe/Berlin:20250207T150000
-SUMMARY:(DoktorFroid) [IRL] Erst Frühstück und dann auf die WEINmesse Berlin! Mit Brammen von @pietsmiet & @formulalena
-DESCRIPTION:(www.twitch.tv/DoktorFroid) IRL.
-CATEGORIES:IRL
 END:VEVENT
 
 BEGIN:VEVENT
