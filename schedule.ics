@@ -16,14 +16,6 @@ SUMMARY:(CriticalRole) #EverythingIsContent | Humblewood: Beyond the Canopy
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2e8c0a8c-25b9-49cc-a9b7-36d7b0f5407c
-DTSTAMP:20250310T175647Z
-DTSTART;TZID=America/Los_Angeles:20250313T190000
-DTEND;TZID=America/Los_Angeles:20250313T230000
-SUMMARY:(CriticalRole) Wrap Up: Campaign 3 and the Era of Reclamation
-END:VEVENT
-
-BEGIN:VEVENT
 UID:5a9d6110-7999-438e-91ea-3223a85b4a5d
 DTSTAMP:20250421T065421Z
 DTSTART;TZID=America/Los_Angeles:20250424T190000
@@ -131,7 +123,7 @@ UID:3c3ac37a-06de-4b35-8ece-25c20af7327b
 DTSTAMP:20200807T145951Z
 DTSTART;TZID=Europe/Berlin:20250514T193000
 DTEND;TZID=Europe/Berlin:20250514T223000
-SUMMARY:(DoktorFroid) PRIME TIME SHOW 🔥 
+SUMMARY:(DoktorFroid) QUIZ-ABEND! ➡️ OHREN AUF SPEED & PAINT MASTER
 DESCRIPTION:(www.twitch.tv/DoktorFroid) Just Chatting.
 CATEGORIES:Just Chatting
 RRULE:FREQ=WEEKLY;BYDAY=WE
@@ -172,7 +164,7 @@ UID:701762bd-c66e-45f2-8d4e-0814dbb7ae43
 DTSTAMP:20250428T122351Z
 DTSTART;TZID=Europe/Berlin:20250502T120000
 DTEND;TZID=Europe/Berlin:20250502T160000
-SUMMARY:(DoktorFroid) Live aus dem Studio ⚡️
+SUMMARY:(DoktorFroid) WIN-Challenge gegen die Community 🔥
 DESCRIPTION:(www.twitch.tv/DoktorFroid) Just Chatting.
 CATEGORIES:Just Chatting
 RRULE:FREQ=WEEKLY;BYDAY=FR
@@ -233,9 +225,9 @@ UID:f2d9a5f6-c529-4cdd-a697-63f42a0281ea
 DTSTAMP:20250428T122309Z
 DTSTART;TZID=Europe/Berlin:20250501T120000
 DTEND;TZID=Europe/Berlin:20250501T160000
-SUMMARY:(DoktorFroid) Live aus dem Studio ⚡️
-DESCRIPTION:(www.twitch.tv/DoktorFroid) Just Chatting.
-CATEGORIES:Just Chatting
+SUMMARY:(DoktorFroid) DARTS WM Training mit JenNyan
+DESCRIPTION:(www.twitch.tv/DoktorFroid) Darts.
+CATEGORIES:Darts
 RRULE:FREQ=WEEKLY;BYDAY=TH
 END:VEVENT
 
