@@ -131,7 +131,7 @@ UID:3c3ac37a-06de-4b35-8ece-25c20af7327b
 DTSTAMP:20200807T145951Z
 DTSTART;TZID=Europe/Berlin:20250521T193000
 DTEND;TZID=Europe/Berlin:20250521T223000
-SUMMARY:(DoktorFroid) QUIZ-ABEND! ➡️ OHREN AUF SPEED & PAINT MASTER
+SUMMARY:(DoktorFroid) Wer weiß es NICHT? - Die Quizshow! 🔥 PRIME TIME SHOW
 DESCRIPTION:(www.twitch.tv/DoktorFroid) Just Chatting.
 CATEGORIES:Just Chatting
 RRULE:FREQ=WEEKLY;BYDAY=WE
@@ -152,7 +152,7 @@ UID:701762bd-c66e-45f2-8d4e-0814dbb7ae43
 DTSTAMP:20250428T122351Z
 DTSTART;TZID=Europe/Berlin:20250502T120000
 DTEND;TZID=Europe/Berlin:20250502T160000
-SUMMARY:(DoktorFroid) WIN-Challenge gegen die Community 🔥
+SUMMARY:(DoktorFroid) Kochen, Reacts & mehr! ⚡ LIVE aus dem Studio ⚡
 DESCRIPTION:(www.twitch.tv/DoktorFroid) Just Chatting.
 CATEGORIES:Just Chatting
 RRULE:FREQ=WEEKLY;BYDAY=FR
@@ -203,9 +203,9 @@ UID:f2d9a5f6-c529-4cdd-a697-63f42a0281ea
 DTSTAMP:20250428T122309Z
 DTSTART;TZID=Europe/Berlin:20250501T120000
 DTEND;TZID=Europe/Berlin:20250501T160000
-SUMMARY:(DoktorFroid) DARTS WM Training mit JenNyan
-DESCRIPTION:(www.twitch.tv/DoktorFroid) Darts.
-CATEGORIES:Darts
+SUMMARY:(DoktorFroid) Clip Queue & Backseat Drivers ⚡ LIVE aus dem Studio ⚡ 
+DESCRIPTION:(www.twitch.tv/DoktorFroid) Just Chatting.
+CATEGORIES:Just Chatting
 RRULE:FREQ=WEEKLY;BYDAY=TH
 END:VEVENT
 
