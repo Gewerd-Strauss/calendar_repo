@@ -92,16 +92,6 @@ SUMMARY:(CriticalRole) Daggerheart Launch Day LIVE!
 END:VEVENT
 
 BEGIN:VEVENT
-UID:99aac118-3826-4dbf-b3c8-dcfda1ffa97f
-DTSTAMP:20250331T045750Z
-DTSTART;TZID=America/Los_Angeles:20250417T180000
-DTEND;TZID=America/Los_Angeles:20250417T220000
-SUMMARY:(CriticalRole) Wildemount Wildlings
-DESCRIPTION:(www.twitch.tv/CriticalRole) Dungeons & Dragons.
-CATEGORIES:Dungeons & Dragons
-END:VEVENT
-
-BEGIN:VEVENT
 UID:ace5c151-2350-4303-aca0-cee3100e825d
 DTSTAMP:20250524T015127Z
 DTSTART;TZID=America/Los_Angeles:20250724T190000
