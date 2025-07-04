@@ -414,9 +414,9 @@ UID:b1f56cf8-1b1f-48c9-9aea-df8337b24fbd
 DTSTAMP:20250630T092009Z
 DTSTART;TZID=Europe/Berlin:20250703T130000
 DTEND;TZID=Europe/Berlin:20250703T160000
-SUMMARY:(DoktorFroid) FAHR-READ 🚴🏻‍♂️ Subs vorlesen & Um unser Leben radeln!
-DESCRIPTION:(www.twitch.tv/DoktorFroid) Just Chatting.
-CATEGORIES:Just Chatting
+SUMMARY:(DoktorFroid) Reif für die Insel 🏝️
+DESCRIPTION:(www.twitch.tv/DoktorFroid) Len's Island.
+CATEGORIES:Len's Island
 END:VEVENT
 
 BEGIN:VEVENT
