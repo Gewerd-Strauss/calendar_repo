@@ -120,16 +120,6 @@ CATEGORIES:Tabletop RPGs
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dc606019-d6eb-43c1-ba89-e62f38b5300b
-DTSTAMP:20250505T165143Z
-DTSTART;TZID=America/Los_Angeles:20250508T190000
-DTEND;TZID=America/Los_Angeles:20250508T230000
-SUMMARY:(CriticalRole) Critical Role 10-Year Anniversary Tarot Deck
-DESCRIPTION:(www.twitch.tv/CriticalRole) Dungeons & Dragons.
-CATEGORIES:Dungeons & Dragons
-END:VEVENT
-
-BEGIN:VEVENT
 UID:e563f819-db4e-4547-b8f8-4715609efc9b
 DTSTAMP:20250524T015021Z
 DTSTART;TZID=America/Los_Angeles:20250710T190000
@@ -377,16 +367,6 @@ DTEND;TZID=Europe/Berlin:20250620T160000
 SUMMARY:(DoktorFroid) Clip Queue - Wir reagieren auf eure Clips!
 DESCRIPTION:(www.twitch.tv/DoktorFroid) Just Chatting.
 CATEGORIES:Just Chatting
-END:VEVENT
-
-BEGIN:VEVENT
-UID:a1b64d25-61dd-4aa1-89c5-c428985bed7e
-DTSTAMP:20250707T084823Z
-DTSTART;TZID=Europe/Berlin:20250709T160000
-DTEND;TZID=Europe/Berlin:20250709T193000
-SUMMARY:(DoktorFroid) Samsung Unpacked ⚡
-DESCRIPTION:(www.twitch.tv/DoktorFroid) Special Events.
-CATEGORIES:Special Events
 END:VEVENT
 
 BEGIN:VEVENT
