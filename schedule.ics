@@ -122,6 +122,16 @@ CATEGORIES:Tabletop RPGs
 END:VEVENT
 
 BEGIN:VEVENT
+UID:0444974b-91f9-4852-bccb-cad289b17054
+DTSTAMP:20250714T111015Z
+DTSTART;TZID=Europe/Berlin:20250718T120000
+DTEND;TZID=Europe/Berlin:20250718T130000
+SUMMARY:(DoktorFroid) Community-Talk im Studio 💬
+DESCRIPTION:(www.twitch.tv/DoktorFroid) Just Chatting.
+CATEGORIES:Just Chatting
+END:VEVENT
+
+BEGIN:VEVENT
 UID:06cc8f5c-2a92-4475-a574-24c6c048427b
 DTSTAMP:20250630T085332Z
 DTSTART;TZID=Europe/Berlin:20250703T120000
@@ -186,7 +196,7 @@ UID:22c77211-6573-4000-9a28-33da83c8daf6
 DTSTAMP:20250709T112700Z
 DTSTART;TZID=Europe/Berlin:20250714T193000
 DTEND;TZID=Europe/Berlin:20250714T223000
-SUMMARY:(DoktorFroid) Talk & Reacts | PRIME TIME SHOW 🔥
+SUMMARY:(DoktorFroid) PRIME TIME SHOW 🔥 Reacts!
 DESCRIPTION:(www.twitch.tv/DoktorFroid) Just Chatting.
 CATEGORIES:Just Chatting
 END:VEVENT
@@ -272,6 +282,16 @@ CATEGORIES:Just Chatting
 END:VEVENT
 
 BEGIN:VEVENT
+UID:5a5be921-c5eb-4904-a6fd-c6562cf6c1a0
+DTSTAMP:20250714T111115Z
+DTSTART;TZID=Europe/Berlin:20250718T130000
+DTEND;TZID=Europe/Berlin:20250718T160000
+SUMMARY:(DoktorFroid) Gemeinsam überleben mit dem Team! 🏝️
+DESCRIPTION:(www.twitch.tv/DoktorFroid) Len's Island.
+CATEGORIES:Len's Island
+END:VEVENT
+
+BEGIN:VEVENT
 UID:5aa54333-8737-4ef5-a7a3-a5f52fbd8c6a
 DTSTAMP:20250623T085111Z
 DTSTART;TZID=Europe/Berlin:20250625T193000
@@ -306,7 +326,7 @@ UID:6f157021-3907-4854-8c7a-39c0d973ac4b
 DTSTAMP:20250709T112956Z
 DTSTART;TZID=Europe/Berlin:20250716T180000
 DTEND;TZID=Europe/Berlin:20250716T220000
-SUMMARY:(DoktorFroid) Qualifier: PUBG Creator Wars von PietSmiet 🔥 mit haselnuuuss & Froschmaedchen
+SUMMARY:(DoktorFroid) PUBG CREATOR WARS Qualifier bei PietSmiet 🔥 Im Team mit haselnuuuss & Froschmaedchen
 DESCRIPTION:(www.twitch.tv/DoktorFroid) PUBG: BATTLEGROUNDS.
 CATEGORIES:PUBG: BATTLEGROUNDS
 END:VEVENT
@@ -406,7 +426,7 @@ UID:a7f5c75d-22e1-4972-bfe5-af2028172612
 DTSTAMP:20250709T113358Z
 DTSTART;TZID=Europe/Berlin:20250717T200000
 DTEND;TZID=Europe/Berlin:20250717T230000
-SUMMARY:(DoktorFroid) Ein Stream mit BONJWA! Echt!
+SUMMARY:(DoktorFroid) Zu Gast bei BONJWA! ♥️ Echt! 🤩
 DESCRIPTION:(www.twitch.tv/DoktorFroid) Just Chatting.
 CATEGORIES:Just Chatting
 END:VEVENT
@@ -429,6 +449,16 @@ DTEND;TZID=Europe/Berlin:20250702T210000
 SUMMARY:(DoktorFroid) PAINT MEISTER 🖌️
 DESCRIPTION:(www.twitch.tv/DoktorFroid) Special Events.
 CATEGORIES:Special Events
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ac6950a1-4a98-4d96-9d79-34721f4b5455
+DTSTAMP:20250714T083831Z
+DTSTART;TZID=Europe/Berlin:20250717T120000
+DTEND;TZID=Europe/Berlin:20250717T133000
+SUMMARY:(DoktorFroid) NEXT LEVEL ⚡ Gaming News & Releases
+DESCRIPTION:(www.twitch.tv/DoktorFroid) Just Chatting.
+CATEGORIES:Just Chatting
 END:VEVENT
 
 BEGIN:VEVENT
@@ -499,6 +529,16 @@ DTEND;TZID=Europe/Berlin:20250530T160000
 SUMMARY:(DoktorFroid) Krawall im Kiez 🧨 Fanarts & mehr mit dem Donnerhaus
 DESCRIPTION:(www.twitch.tv/DoktorFroid) Just Chatting.
 CATEGORIES:Just Chatting
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cd67805d-ea09-432c-9aa9-97f88e851906
+DTSTAMP:20250714T110906Z
+DTSTART;TZID=Europe/Berlin:20250717T133000
+DTEND;TZID=Europe/Berlin:20250717T160000
+SUMMARY:(DoktorFroid) Surströmming Gönnung im Wurfzelt 🐟⛺ 🤮
+DESCRIPTION:(www.twitch.tv/DoktorFroid) IRL.
+CATEGORIES:IRL
 END:VEVENT
 
 BEGIN:VEVENT
