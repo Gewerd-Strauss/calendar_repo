@@ -469,8 +469,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bc1b18ed-e0fa-40c5-bff3-c906ebde562d
 DTSTAMP:20250817T065736Z
-DTSTART;TZID=Europe/Berlin:20250817T140000
-DTEND;TZID=Europe/Berlin:20250817T170000
+DTSTART;TZID=Europe/Berlin:20250817T150000
+DTEND;TZID=Europe/Berlin:20250817T173000
 SUMMARY:(DoktorFroid) Zurück aus Mallorca! 🔥 Copy & Taste x Cozy Kitchen 🔥 
 DESCRIPTION:(www.twitch.tv/DoktorFroid) Food & Drink.
 CATEGORIES:Food & Drink
