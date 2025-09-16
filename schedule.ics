@@ -71,8 +71,8 @@ DTSTAMP:20250908T090849Z
 DTSTART;TZID=Europe/Berlin:20250913T103000
 DTEND;TZID=Europe/Berlin:20250913T150000
 SUMMARY:(DoktorFroid) Ab in die Borderlands mit Yvraldis, RangerArea & Katazuri
-DESCRIPTION:(www.twitch.tv/DoktorFroid) Borderlands 4.
-CATEGORIES:Borderlands 4
+DESCRIPTION:(www.twitch.tv/DoktorFroid) BORDERLANDS 4.
+CATEGORIES:BORDERLANDS 4
 END:VEVENT
 
 BEGIN:VEVENT
@@ -246,13 +246,13 @@ CATEGORIES:Len's Island
 END:VEVENT
 
 BEGIN:VEVENT
-UID:6f157021-3907-4854-8c7a-39c0d973ac4b
-DTSTAMP:20250709T112956Z
-DTSTART;TZID=Europe/Berlin:20250716T180000
-DTEND;TZID=Europe/Berlin:20250716T220000
-SUMMARY:(DoktorFroid) PUBG CREATOR WARS Qualifier bei PietSmiet 🔥 Im Team mit haselnuuuss & Froschmaedchen
-DESCRIPTION:(www.twitch.tv/DoktorFroid) PUBG: BATTLEGROUNDS.
-CATEGORIES:PUBG: BATTLEGROUNDS
+UID:64651421-a2d9-4fd7-b3e9-4edc41d70794
+DTSTAMP:20250915T113551Z
+DTSTART;TZID=Europe/Berlin:20250918T120000
+DTEND;TZID=Europe/Berlin:20250918T160000
+SUMMARY:(DoktorFroid) 333 WIN challenge 🏆 3 Spiele, 3 Challenges, 3 Stunden!
+DESCRIPTION:(www.twitch.tv/DoktorFroid) Special Events.
+CATEGORIES:Special Events
 END:VEVENT
 
 BEGIN:VEVENT
@@ -263,6 +263,17 @@ DTEND;TZID=Europe/Berlin:20250909T230000
 SUMMARY:(DoktorFroid) PIROL 🔥 Minecraft Hunger Games mit Tim Horus
 DESCRIPTION:(www.twitch.tv/DoktorFroid) Minecraft.
 CATEGORIES:Minecraft
+END:VEVENT
+
+BEGIN:VEVENT
+UID:729cf790-f0f5-4cf0-af48-5bc37a11edab
+DTSTAMP:20250915T122314Z
+DTSTART;TZID=Europe/Berlin:20250919T143000
+DTEND;TZID=Europe/Berlin:20250919T160000
+SUMMARY:(DoktorFroid) Clip Queue & Community AMA 💫
+DESCRIPTION:(www.twitch.tv/DoktorFroid) Just Chatting.
+CATEGORIES:Just Chatting
+RRULE:FREQ=WEEKLY;BYDAY=FR
 END:VEVENT
 
 BEGIN:VEVENT
@@ -357,16 +368,6 @@ CATEGORIES:Just Chatting
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ac6950a1-4a98-4d96-9d79-34721f4b5455
-DTSTAMP:20250714T083831Z
-DTSTART;TZID=Europe/Berlin:20250717T120000
-DTEND;TZID=Europe/Berlin:20250717T133000
-SUMMARY:(DoktorFroid) NEXT LEVEL ⚡ Gaming News & Releases
-DESCRIPTION:(www.twitch.tv/DoktorFroid) Just Chatting.
-CATEGORIES:Just Chatting
-END:VEVENT
-
-BEGIN:VEVENT
 UID:acf3dcdc-4b71-4ebd-a102-befa94b69c9f
 DTSTAMP:20250818T171102Z
 DTSTART;TZID=Europe/Berlin:20250821T120000
@@ -404,6 +405,16 @@ DTEND;TZID=Europe/Berlin:20250817T173000
 SUMMARY:(DoktorFroid) Zurück aus Mallorca! 🔥 Copy & Taste x Cozy Kitchen 🔥 
 DESCRIPTION:(www.twitch.tv/DoktorFroid) Food & Drink.
 CATEGORIES:Food & Drink
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cb4a614a-a0a2-4615-a9df-ff1dc4e6b2dd
+DTSTAMP:20250915T071630Z
+DTSTART;TZID=Europe/Berlin:20250917T180000
+DTEND;TZID=Europe/Berlin:20250917T230000
+SUMMARY:(DoktorFroid) CHARITY POKER ♦️♥️♠️♣️ Herzlich Willkommen im BLUFF CLUB
+DESCRIPTION:(www.twitch.tv/DoktorFroid) Poker.
+CATEGORIES:Poker
 END:VEVENT
 
 BEGIN:VEVENT
@@ -484,6 +495,16 @@ DTEND;TZID=Europe/Berlin:20250823T200000
 SUMMARY:(DoktorFroid) GamesCom IRL 🕹️
 DESCRIPTION:(www.twitch.tv/DoktorFroid) IRL.
 CATEGORIES:IRL
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f4b4daf2-1bdd-4884-adce-98678744a370
+DTSTAMP:20250915T081010Z
+DTSTART;TZID=Europe/Berlin:20250919T120000
+DTEND;TZID=Europe/Berlin:20250919T143000
+SUMMARY:(DoktorFroid) Hilfe, unser Rezept wurde 100 mal übersetzt! 😵‍💫 Translator Kochen 
+DESCRIPTION:(www.twitch.tv/DoktorFroid) Food & Drink.
+CATEGORIES:Food & Drink
 END:VEVENT
 
 BEGIN:VEVENT
