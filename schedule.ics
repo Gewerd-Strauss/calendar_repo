@@ -8,16 +8,6 @@ NAME:Streaming Scheduler
 X-WR-CALNAME:Streaming Scheduler
 
 BEGIN:VEVENT
-UID:80aeb6ef-71ef-4bec-9d99-55b874367e82
-DTSTAMP:20250728T053909Z
-DTSTART;TZID=America/Los_Angeles:20250731T190000
-DTEND;TZID=America/Los_Angeles:20250731T230000
-SUMMARY:(CriticalRole) Tag Team At The Teeth: The Misty Ascent | Sydney Live Show 2025
-DESCRIPTION:(www.twitch.tv/CriticalRole) Dungeons & Dragons.
-CATEGORIES:Dungeons & Dragons
-END:VEVENT
-
-BEGIN:VEVENT
 UID:9044fc7d-d918-4f0b-b001-f3fa9badd5cd
 DTSTAMP:20250821T174043Z
 DTSTART;TZID=America/Los_Angeles:20250821T190000
@@ -123,16 +113,6 @@ DTEND;TZID=Europe/Berlin:20250828T160000
 SUMMARY:(DoktorFroid) Angespielt: HELL IS US 
 DESCRIPTION:(www.twitch.tv/DoktorFroid) Hell is Us.
 CATEGORIES:Hell is Us
-END:VEVENT
-
-BEGIN:VEVENT
-UID:32dd60c5-e947-4990-9819-bb222efc842a
-DTSTAMP:20250728T090523Z
-DTSTART;TZID=Europe/Berlin:20250801T100000
-DTEND;TZID=Europe/Berlin:20250801T120000
-SUMMARY:(DoktorFroid) IRL auf WACKEN 2025 🏕️ Frühstücks-Stream!
-DESCRIPTION:(www.twitch.tv/DoktorFroid) IRL.
-CATEGORIES:IRL
 END:VEVENT
 
 BEGIN:VEVENT
