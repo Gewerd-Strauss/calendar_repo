@@ -37,16 +37,6 @@ RRULE:FREQ=WEEKLY;BYDAY=TH
 END:VEVENT
 
 BEGIN:VEVENT
-UID:b780ed5e-110e-47ad-9dcb-64efa5d4d3e7
-DTSTAMP:20250728T054134Z
-DTSTART;TZID=America/Los_Angeles:20250807T190000
-DTEND;TZID=America/Los_Angeles:20250807T230000
-SUMMARY:(CriticalRole) Tag Team At The Teeth: Beyond The Shroud | Melbourne Live Show 2025 
-DESCRIPTION:(www.twitch.tv/CriticalRole) Dungeons & Dragons.
-CATEGORIES:Dungeons & Dragons
-END:VEVENT
-
-BEGIN:VEVENT
 UID:eedeae94-eec1-43ea-b06c-9ed5ecc19d47
 DTSTAMP:20250929T060556Z
 DTSTART;TZID=America/Los_Angeles:20251002T190000
